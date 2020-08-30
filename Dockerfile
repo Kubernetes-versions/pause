@@ -1,1 +1,1 @@
-FROM  gcr.io/pause:v3.2
+FROM  k8s.gcr.io/pause:3.2
